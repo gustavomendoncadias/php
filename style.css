@@ -1,0 +1,31 @@
+.lista{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+}
+.lista img{
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
+ 
+h1{
+    text-align: center;
+    font-size: 200%;
+    color: red;
+}
+h2{
+    text-align: center;
+    color: rgb(88, 87, 87);
+}
+.imagem-banner{
+    width: 100vw;
+    height: 300px;
+    object-fit: cover;
+}
